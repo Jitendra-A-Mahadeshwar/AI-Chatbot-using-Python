@@ -17,6 +17,7 @@ Welcome to the College Enquiry AI Chatbot repository! This project features an A
 **5. Extensive College Information:** Covers a wide range of college-related topics, from courses to facilities.
 
 
+
 **Technologies Used**
 
 **1. Programming Language:** Python
@@ -47,16 +48,20 @@ Welcome to the College Enquiry AI Chatbot repository! This project features an A
 - pip (Python package installer)
 
 **Installation**
+
 **1. Clone the repository:**
 git clone https://github.com/yourusername/college-enquiry-chatbot.git
 cd college-enquiry-chatbot
+
 
 **2. Create and activate a virtual environment:**
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
+
 **3. Install dependencies:**
 pip install -r requirements.txt
+
 
 **Running the Chatbot**
 **1. Download NLTK data:**
@@ -64,23 +69,36 @@ import nltk
 nltk.download('punkt')
 nltk.download('wordnet')
 
+
 **2. Start the chatbot:**
 python main.py
+
 
 **3. Interact with the chatbot:**
 Open the Tkinter GUI that launches with the script and start typing your queries.
 
+
 **Usage**
+
 The chatbot can handle a variety of inquiries related to college information, such as:
+
 **1. Greetings:** "Hello", "Hi"
+
 **2. Course details:** "What courses are available?"
+
 **3. Admission requirements:** "What are the student requirements for admission?"
+
 **4. Fees:** "How much is the college fee?"
+
 **5. Locations:** "Where is the college located?"
 
+
 **Example Interaction**
+
 **User:** What courses are available?
+
 **Bot:** Bharti Vidyapeeth(Deemed to be University), Pune (India), offers BSc (Hons) Computing, BBA (Marketing) with International Business, and more.
+
 
 **Contributing**
 We welcome contributions to enhance the functionality and usability of the AI Chatbot. Please follow these steps to contribute:
