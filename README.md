@@ -18,6 +18,7 @@ Welcome to the College Enquiry AI Chatbot repository! This project features an A
 
 
 
+
 **Technologies Used**
 
 **1. Programming Language:** Python
@@ -29,6 +30,7 @@ Welcome to the College Enquiry AI Chatbot repository! This project features an A
 **4. GUI Framework:** Tkinter
 
 **5. Data Storage:** JSON, Pickle
+
 
 
 **Project Structure**
@@ -61,6 +63,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 **3. Install dependencies:**
 pip install -r requirements.txt
+
 
 
 **Running the Chatbot**
