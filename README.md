@@ -67,6 +67,7 @@ pip install -r requirements.txt
 
 
 **Running the Chatbot**
+
 **1. Download NLTK data:**
 import nltk
 nltk.download('punkt')
