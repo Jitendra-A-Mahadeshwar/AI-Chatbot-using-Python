@@ -5,24 +5,41 @@
 Welcome to the College Enquiry AI Chatbot repository! This project features an AI-powered chatbot designed to assist users with inquiries about college-related information. Leveraging natural language processing and machine learning, the chatbot can handle various questions related to courses, admissions, fees, and more. The project includes a user-friendly GUI built with Tkinter for seamless interaction.
 
 **Features**
+
 **1. Natural Language Processing:** Utilizes NLP techniques to understand and process user queries.
+
 **2. Contextual Responses:** Provides relevant responses based on predefined intents and patterns.
+
 **3. GUI Integration:** Offers a graphical user interface using Tkinter for easy interaction.
+
 **4. Machine Learning Model:** Employs a trained neural network model for intent classification and response generation.
+
 **5. Extensive College Information:** Covers a wide range of college-related topics, from courses to facilities.
 
+
 **Technologies Used**
+
 **1. Programming Language:** Python
+
 **2. Machine Learning Framework:** TensorFlow
+
 **3. NLP Libraries:** NLTK
+
 **4. GUI Framework:** Tkinter
+
 **5. Data Storage:** JSON, Pickle
 
+
 **Project Structure**
+
 **1. intents.json:** Contains predefined intents, patterns, and responses for the chatbot.
+
 **2. chatbotmodel.h5:** The trained neural network model for intent classification.
+
 **3. words.pkl and classes.pkl:** Pickle files storing the vocabulary and class labels.
+
 **4. main.py:** Main Python script to run the chatbot application.
+
 
 **Getting Started**
 **Prerequisites**
